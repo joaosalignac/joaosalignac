@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Salignac!
+# Bem vindos, eu sou o João Salignac!
 
 🎓 Estudante de Engenharia de Software no IFAM  
 💻 Focado em Visão Computacional, Python e UX/UI  
