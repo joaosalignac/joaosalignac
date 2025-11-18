@@ -1,9 +1,9 @@
 # Bem vindos, eu sou o João Salignac!
 
-Estudante de Engenharia de Software no IFAM  
-Focado em Visão Computacional, Python e UX/UI  
-Produzo artigos acadêmicos e demos de aplicações com IA  
-Experiência também em C e Kotlin
+- Estudante de Engenharia de Software no IFAM  
+- Focado em Visão Computacional, Python e UX/UI  
+- Produzo artigos acadêmicos e demos de aplicações com IA  
+- Experiência também em C e Kotlin
 
 ## Áreas de Interesse
 - Visão Computacional (OpenCV, IA)
@@ -13,12 +13,10 @@ Experiência também em C e Kotlin
 - Pesquisa e produção de artigos técnicos
 
 ## Projetos
-- **Sistemas de Visão Computacional** (pré-processamento, geometria, detecção de características)  
-- **Prototipação e UX/UI** para aplicativos 
-- **Artigos explorando aplicações de IA e design digital**
+- Sistemas de Visão Computacional (pré-processamento, geometria, detecção de características)  
+- Prototipação e UX/UI para aplicativos 
+- Artigos explorando aplicações de IA e design digital
 
----
-
-**Contato:**  
+## Contato
 - Email: joaosalignacvictor@gmail.com
 - LinkedIn: www.linkedin.com/in/joao-salignac
