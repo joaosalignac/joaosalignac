@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João!
 
-<!--
-**joaosalignac/joaosalignac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software no IFAM  
+💻 Focado em Visão Computacional, Python e UX/UI  
+📝 Produzo artigos acadêmicos e demos de aplicações com IA  
+🔧 Experiência também em C e Kotlin
 
-Here are some ideas to get you started:
+## 🧠 Áreas de Interesse
+- Visão Computacional (OpenCV, IA)
+- UX/UI Design e prototipação
+- Desenvolvimento em Python
+- Linguagens C e Kotlin
+- Pesquisa e produção de artigos técnicos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- **Sistemas de Visão Computacional** (pré-processamento, geometria, detecção de características)  
+- **Prototipação e UX/UI** para aplicativos  
+- **Artigos explorando aplicações de IA e design digital**
+
+---
+
+📫 **Contato:**  
+- Email: seuemail@example.com  
+- LinkedIn: www.linkedin.com/in/joao-salignac
