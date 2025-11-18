@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João!
+# 👋 Olá, eu sou o João Salignac!
 
 🎓 Estudante de Engenharia de Software no IFAM  
 💻 Focado em Visão Computacional, Python e UX/UI  
@@ -20,5 +20,5 @@
 ---
 
 📫 **Contato:**  
-- Email: seuemail@example.com  
+- Email: joaosalignacvictor@gmail.com
 - LinkedIn: www.linkedin.com/in/joao-salignac
